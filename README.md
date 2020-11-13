@@ -1,3 +1,4 @@
+https://www.codewars.com/users/Gagik_Harutyunyan/badges/small
 ## [CodeWars](https://www.codewars.com/)
 # All In PHP
 
