@@ -4,22 +4,22 @@
 
 
 ###### 8 kyu
-1. [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086) 8 kyu
-15. [Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name) 8 kyu
-26. [Welcome to the City](https://www.codewars.com/kata/5302d846be2a9189af0001e4) 8 kyu
-27. [Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d) 8 kyu
-5. [L1: Bartender, drinks!](https://www.codewars.com/kata/568dc014440f03b13900001d) 8 kyu
+1. [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086)
+15. [Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)
+26. [Welcome to the City](https://www.codewars.com/kata/5302d846be2a9189af0001e4)
+27. [Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d)
+5. [L1: Bartender, drinks!](https://www.codewars.com/kata/568dc014440f03b13900001d)
 ###### 7 kyu
-9. [By 3, or not by 3? That is the question . . .](https://www.codewars.com/kata/59f7fc109f0e86d705000043) 7 kyu
-3. [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028) 7 kyu
-4. [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/discuss) 7 kyu
-17. [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c) 7 kyu
-18. [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9) 7 kyu
-14. [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) 7 kyu
-24. [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040) 7 kyu
+9. [By 3, or not by 3? That is the question . . .](https://www.codewars.com/kata/59f7fc109f0e86d705000043)
+3. [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
+4. [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/discuss)
+17. [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
+18. [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
+14. [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
+24. [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040)
 ###### 6 kyu
-2. [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006) 6 kyu
-7. [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) 6 kyu
+2. [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)
+7. [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 8. [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
 10. [Pokemon Damage Calculator](https://www.codewars.com/kata/536e9a7973130a06eb000e9f)
 11. [Sums of Parts](https://www.codewars.com/kata/5ce399e0047a45001c853c2b)
